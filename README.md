@@ -1,3 +1,4 @@
+<img width="308" height="96" alt="Primitive java" src="https://github.com/user-attachments/assets/bd42a449-216b-4737-8974-9b19e2f6c700" />
 # Exp1
 ```java
 class PrimitiveDefaults
